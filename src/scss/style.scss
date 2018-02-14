@@ -1,0 +1,22 @@
+nav {
+  &.class1 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  &.class2 { display: inline-block; }
+
+  &.class3 {
+    display: grid;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
+
+.example {
+  display: grid;
+  transition: all .5s;
+  user-select: none;
+}
+
