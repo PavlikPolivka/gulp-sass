@@ -16,3 +16,5 @@ Tested versions are:
 - "gulp-sass": "^3.1.0"
 - "gulp-postcss": "^7.0.0"
 - "gulp-sourcemaps": "^2.6.1"
+
+Do not forget to do `npm install` after the version change.
