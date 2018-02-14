@@ -1,4 +1,4 @@
-#Gulp SASS
+# Gulp SASS
 
 This is a simple prototype for Gulp pipeline for SASS with minification and autorprefixer and correctly working source maps.
 
